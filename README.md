@@ -4,7 +4,7 @@
 
 
 # Önizleme
-![](https://hizliresim.com/gxq92vo.PNG)
+![image](/Users/niluferdastan/Desktop/Data Science /ITU - AI & Data Mining )
 
 
 # Araştırma
