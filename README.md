@@ -4,7 +4,7 @@
 
 
 # Önizleme
-![image](/Users/niluferdastan/Desktop/Data Science /ITU - AI & Data Mining )
+![image](/Users/niluferdastan/Desktop/Data Science /ITU - AI & Data Mining/maxresdefault.jpg)
 
 
 # Araştırma
