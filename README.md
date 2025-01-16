@@ -3,10 +3,6 @@
 ❤️‍🔥 Veri Madenciliğinde Regresyon yaparken Data Manipulation ve Data Aggreating konularına hakimiyetinizi ölçen bankaların veri setlerinden orta seviyede aşağıdaki sorulara göre rapor hazırladım.(Bu rapor ITU Data mining projesidir.) Bu raporda aşağıdaki sorulara yanıt bulabilirsiniz ; 
 
 
-# Önizleme
-![image](/Users/niluferdastan/Desktop/Data Science /ITU - AI & Data Mining/maxresdefault.jpg)
-
-
 # Araştırma
 
 - [x] 1. Veri setinizi tanimlayici istatistikler yardimiyla kisaca tanitiniz. Degiskenlerinizin arasindaki iliskileri inceleyerek yorumlayiniz. Veri setinde çoklu dogrusal bagimlilk olup olmadigini inceleyiniz.
